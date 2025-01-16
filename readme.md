@@ -164,3 +164,14 @@ GET /api/token_balance/
 Authorization: Bearer <authentication_token>
 ```
 
+![Screenshot 2025-01-16 232913](https://github.com/user-attachments/assets/87bd5006-2559-4cf0-a1ae-b22596b44d7b)
+
+![Screenshot 2025-01-16 232824](https://github.com/user-attachments/assets/f75f8c9d-1573-4676-bb4b-e53ed0fb9b1b)
+
+
+![Screenshot 2025-01-16 232558](https://github.com/user-attachments/assets/6c8677eb-99cf-4d4e-919e-507c2ac5b4b4)
+
+![Screenshot 2025-01-16 232522](https://github.com/user-attachments/assets/d9206d50-b299-4a0b-8ac5-37acc9713236)
+
+
+
