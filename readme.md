@@ -164,8 +164,3 @@ GET /api/token_balance/
 Authorization: Bearer <authentication_token>
 ```
 
-## Challenges Faced
-- Handling user authentication and ensuring token validity during each API request.
-- Managing token balance and deducting tokens accurately for each chatbot interaction.
-
----
