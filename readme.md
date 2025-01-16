@@ -95,7 +95,7 @@ This project provides a REST API for an AI-powered chat system developed using D
 1. **Clone the Repository**  
    Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/ai-chat-system.git
+   git https://github.com/kartik3165/AI-Chat-System---REST-API-Implementation
    cd ai-chat-system
    ```
 
