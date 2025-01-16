@@ -1,7 +1,3 @@
-Here's an updated version of the `README.md` tailored for submitting to your client:
-
----
-
 # AI Chat System - REST API Implementation
 
 This project provides a REST API for an AI-powered chat system developed using Django. The system allows users to register, log in, interact with an AI chatbot, and manage their token balance. Each interaction with the chatbot deducts tokens from the user's account.
